@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="spring-hello"
+  id="myeclipse.1479176059131"
+  context-root="/spring-hello"
+  j2ee-spec="1.4"
+  archive="spring-hello.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
